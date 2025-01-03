@@ -1,0 +1,20 @@
+The telescope has a magnification of 120x.
+The cake recipe calls for 3.456 cups of sugar.
+The batch number is 234567.
+The bus fare increased to $1.23.
+The database holds 789123 records.
+The book contains 45 chapters.
+The movie runtime is 2:45 hours.
+The factory employs 567 people.
+The spaceship traveled 123,456 miles.
+Variables reported as missing type #987123.
+The customer ID is 78-901-2345.
+The company’s net worth is $12,345,678.
+The lake's depth is 123.45 meters.
+The bridge spans 7890 feet across the river.
+The final exam was graded out of 100 points.
+I donated 4567 dollars to charity.
+The conference was attended by 234,567 people.
+The experiment yielded 12.34% accuracy.
+The phone battery lasted 5678 seconds.
+The auction raised $987,654.32 for charity.
